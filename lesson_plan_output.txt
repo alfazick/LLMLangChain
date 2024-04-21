@@ -1,0 +1,34 @@
+
+Lesson Title: Mastering For Loops in C++
+
+Lesson Duration: 1 hour 15 minutes 
+
+Objective:
+By the end of this lesson, students will be able to understand and use for loops in C++ to iterate through data structures and perform repetitive tasks.
+
+Materials:
+- Computer with C++ compiler
+- Presentation slides on for loops
+- Code examples 
+- Whiteboard and markers
+
+Introduction (5 minutes):
+- Greet the students and introduce the topic of for loops
+- Explain the importance of for loops in programming
+- Share the learning objectives for the lesson
+
+Explanation (20 minutes):
+- Define for loops and explain their purpose
+- Discuss the syntax of for loops in C++
+- Show examples of for loops in action
+- Explain the three components of a for loop: initialization, condition, and increment/decrement
+- Discuss the different types of for loops (counting, nested, and infinite)
+- Demonstrate how to use for loops to iterate through arrays and perform repetitive tasks
+
+Guided Practice (25 minutes):
+- Provide students with a coding challenge to implement a for loop in C++
+- Guide them through the process and provide assistance as needed
+- Encourage students to ask questions and provide feedback
+
+Independent Practice (20 minutes):
+- Assign
