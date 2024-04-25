@@ -6,3 +6,4 @@ practice LangChain
 # 2. Output Parsers
 
 a. Datetime parser
+b. List 
