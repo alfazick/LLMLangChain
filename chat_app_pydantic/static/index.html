@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat</title>
+</head>
+<body>
+    <h1>Chat Application</h1>
+    <form id="chatForm">
+        <input type="text" id="messageInput" placeholder="Type a message...">
+        <button type="submit">Send</button>
+    </form>
+    <div id="messages"></div>
+
+    <script>
+        document.getElementById('chatForm').addEventListener('submit', async function(e) {
+            e.preventDefault();
+            const inputField = document.getElementById('messageInput');
+            const messageContent = inputField.value;
+            inputField.value = ''; // Clear the input field
+
+            const response = await fetch('/chat/', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ content: messageContent })
+            });
+
+            const result = await response.json();
+            const messagesDiv = document.getElementById('messages');
+            messagesDiv.innerHTML += `<p>${result.content}</p>`; // Display the returned message
+        });
+    </script>
+</body>
+</html>
+
+
