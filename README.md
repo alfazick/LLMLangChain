@@ -7,6 +7,11 @@ a. Datetime parser
 b. List 
 c. Pydantic
 # 3. Chains
+a. Sequential
+b. Multiple Input
+c. Router 
+# 4. Memory
+a. ConversationBuffer
 
 
 
