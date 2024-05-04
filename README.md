@@ -12,6 +12,7 @@ b. Multiple Input
 c. Router 
 # 4. Memory
 a. ConversationBuffer
+b. ConversationBufferWindowMemory
 
 
 
