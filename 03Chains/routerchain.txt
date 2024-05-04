@@ -1,0 +1,21 @@
+> Entering new MultiPromptChain chain...
+Hours: {'input': "What are the library's hours?"}
+> Finished chain.
+Query: What are the library's hours?
+Response: {'input': "What are the library's hours?", 'text': "\n\nAs a librarian, my main responsibility is to manage the library and ensure that it runs smoothly and efficiently. This includes overseeing the collection of books, organizing and cataloging them, and assisting patrons with finding and checking out materials.\n\nOne of the most important aspects of my job is to maintain the library's hours of operation. Currently, the library is open from 6 AM to 13 PM, which allows for a full day of access to our resources. This schedule was carefully chosen to accommodate the needs of our patrons, who may have different schedules and availability throughout the day.\n\nIn the morning, the library opens at 6 AM to cater to early risers and students who prefer to study before their classes or work. This also allows for individuals who have busy schedules during the day to have some quiet time to study or read before their day begins.\n\nThe library remains open until 13 PM, which is 1 PM in the afternoon. This allows for a full seven hours of operation, giving patrons ample time to browse and borrow materials, use the computers and printers, or attend any events or programs that may be scheduled during the day.\n\nAs a librarian, I am also responsible for ensuring that the library is properly staffed during these hours. This includes having enough librarians"}
+
+
+
+> Entering new MultiPromptChain chain...
+Reservation: {'input': 'How do I reserve a book?'}
+> Finished chain.
+Query: How do I reserve a book?
+Response: {'input': 'How do I reserve a book?', 'text': '\n\nThank you for your interest in reserving a book at our library. To make a reservation, you have two options:\n\n1. Visit our website: Our website, lib.com, allows you to search for the book you want and reserve it online. Simply go to our website and click on the "Search Catalog" button. From there, you can enter the title, author, or keyword of the book you are looking for. Once you have found the book, click on the "Reserve" button and follow the prompts to complete your reservation.\n\n2. Call our main desk: If you prefer to make a reservation over the phone, you can call our main desk at 665-777-7777. One of our friendly staff members will be happy to assist you in reserving the book you want. Please have the title and author of the book ready when you call.\n\nPlease note that reservations are subject to availability and may have a waiting period. We will notify you when the book is available for pick up. Thank you for choosing our library and happy reading!'}
+
+
+
+> Entering new MultiPromptChain chain...
+General Info: {'input': 'Tell me more about the library services.'}
+> Finished chain.
+Query: Tell me more about the library services.
+Response: {'input': 'Tell me more about the library services.', 'text': ''}
