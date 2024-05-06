@@ -12,7 +12,7 @@ a. Sequential
 b. Multiple Input
 c. Router 
 
-# 4. Memory
+# 4. Memory -> Done #
 a. ConversationBuffer
 b. ConversationBufferWindowMemory
 c. ConverstionSummaryMemory
