@@ -17,6 +17,8 @@ a. ConversationBuffer
 b. ConversationBufferWindowMemory
 c. ConverstionSummaryMemory
 
+# 5. Agents and Tools 
+a. Zero-shot ReAct
 
 
 
