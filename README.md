@@ -17,9 +17,23 @@ a. ConversationBuffer
 b. ConversationBufferWindowMemory
 c. ConverstionSummaryMemory
 
-# 5. Agents and Tools 
+# 5. Agents and Tools  -> Done #
 a. Zero-shot ReAct
 b. Conversational ReAct
+
+# 6. Retrieval-Augmented Generation(RAG) -> Done #
+a. DataLoaders
+b. DocumentTransformers
+c. TextEmbeddings
+d. VectorStore
+e. Retriever
+
+# 7 Mini-Project
+
+a. Question answering with RAG
+b. Agents for Question Answering with RAG
+
+
 
 
 
