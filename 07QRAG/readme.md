@@ -9,7 +9,7 @@ Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau (University of Wisconsin-Ma
 ##
 Probably the best book about Systems Programming and Operating Systems.
 
-Chapter4: The Abstraction: The Process
+## Chapter4: The Abstraction: The Process ##
 https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-intro.pdf
 
 ### Steps ToDO:
@@ -18,6 +18,7 @@ https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-intro.pdf
 2) Split the document into chunks
 3) Embed the documents to vector store
 4) Define the retriever
+5) Setup chat dialog with completion, which uses provided document
 ### 
 
 ***
@@ -72,5 +73,6 @@ The document discusses the technique of time-sharing the CPU to allow users
 to run multiple concurrent processes, even though there are limitations in physical CPU resources.
 ```
 
+```
 Enter your query: exit
-"""
+```
