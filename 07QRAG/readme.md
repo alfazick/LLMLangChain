@@ -28,11 +28,12 @@ LLM used OpenAI
 
 Sample output:
 
-"""
+***
 The Abstraction: The Process
 In this chapter, we discuss one of the most fundamental abstract ions that
 the OS provides to users: the process . The deﬁnition of a process, infor-
-mally, is quite simple: it is a running program [V+65,BH70]. The program
+mally, is quite simple: it is a running program.
+***
 
 ``` Enter your query: what is a process? ```
 
@@ -41,7 +42,9 @@ In the context of the document provided, a process is defined as
 a running program.
 ```
 
-Enter your query: what is running program
+``` Enter your query: what is running program```
+
+```
 A running program in the context of the document provided refers 
 to a program that is actively executing on a computer system. 
 It is mentioned that one often wants to run more than one program at once, 
@@ -49,18 +52,25 @@ such as a web browser, mail program, game, music player, etc.
 The document also discusses understanding the machine state of a program, 
 which includes what parts of the machine are important to the execution of 
 the program at any given time.
+``
 
-Enter your query: what is a computer system
+```Enter your query: what is a computer system```
+
+```
 In the context of the document provided, a computer system refers to a system that can seemingly 
 run tens or even hundreds of processes at the same time, making it easy to use without 
 the need to be concerned about CPU availability. The challenge highlighted is to manage and 
 optimize the running of multiple processes efficiently.
+```
 
-Enter your query: what is CPU availability
+```Enter your query: what is CPU availability```
+
+```
 In the context of the document provided, CPU availability refers to the challenge of 
 providing the illusion of many CPUs despite having only a few physical CPUs available. 
 The document discusses the technique of time-sharing the CPU to allow users 
 to run multiple concurrent processes, even though there are limitations in physical CPU resources.
+```
 
 Enter your query: exit
 """
