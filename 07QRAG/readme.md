@@ -52,7 +52,7 @@ such as a web browser, mail program, game, music player, etc.
 The document also discusses understanding the machine state of a program, 
 which includes what parts of the machine are important to the execution of 
 the program at any given time.
-``
+```
 
 ```Enter your query: what is a computer system```
 
