@@ -34,8 +34,9 @@ In this chapter, we discuss one of the most fundamental abstract ions that
 the OS provides to users: the process . The deﬁnition of a process, infor-
 mally, is quite simple: it is a running program [V+65,BH70]. The program
 
-``` Enter your query: what is a process?
+``` Enter your query: what is a process? ```
 
+```
 In the context of the document provided, a process is defined as 
 a running program.
 ```
