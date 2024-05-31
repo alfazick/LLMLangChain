@@ -76,3 +76,5 @@ to run multiple concurrent processes, even though there are limitations in physi
 ```
 Enter your query: exit
 ```
+
+Askar Nurbekov 
