@@ -1,2 +1,5 @@
 config_settings.py
-.env 
+.env
+09RAGAgentParse/page_after.html
+09RAGAgentParse/page.html
+09RAGAgentParse/page1.txt
